@@ -1,5 +1,5 @@
 {
-  "name": "dominos",
+  "name": "dominos-ca",
   "version": "2.1.1",
   "description": "node js API for Domino's pizza",
   "main": "dominos-pizza-api.js",
